@@ -6,4 +6,4 @@ services:
       - "9001:9001"
     volumes:
       - .:/pdfscrape
-    image: "nate84thurmond/pdfscrape:v1" 
+    image: "nate84thurmond/pdfscrape:latest" 

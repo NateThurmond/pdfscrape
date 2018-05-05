@@ -1,0 +1,16 @@
+{
+  "name": "pdfscrape",
+  "version": "1.0.0",
+  "description": "Nodejs application to extract text from pdfs",
+  "main": "pdfScrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdfscrape",
+    "pdf",
+    "scrape"
+  ],
+  "author": "Nathan Thurmond",
+  "license": "ISC"
+}

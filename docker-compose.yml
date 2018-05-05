@@ -1,0 +1,9 @@
+version: '3'
+services:
+  pdfscrape:
+    build: .
+    ports:
+      - "9001:9001"
+    volumes:
+      - .:/pdfscrape
+    image: "nate84thurmond/pdfscrape:v1" 
